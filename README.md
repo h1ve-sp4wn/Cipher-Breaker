@@ -10,6 +10,6 @@ Step 6: Run the Docker Container
 
 After the image is built successfully, you can run the container with this command:
 
-    docker run decrypt-script
+    docker run cipher-breaker
 
 This will execute your Python script inside the container. The output will be displayed in your terminal.
